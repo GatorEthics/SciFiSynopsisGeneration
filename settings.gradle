@@ -5,4 +5,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'lab01-starter'
+rootProject.name = 'lab03'
